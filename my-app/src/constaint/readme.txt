@@ -1,0 +1,1 @@
+chỗ này chỉ để biến có tên cố định

@@ -1,0 +1,1 @@
+chỗ này là chứa react cho từng trang mỗi react router

@@ -1,0 +1,1 @@
+nơi này cũng là 1 thành phần react nhưng không có chứa STATE mà chỉ có PROPS
